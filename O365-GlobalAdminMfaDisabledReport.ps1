@@ -4,7 +4,7 @@
 .AUTHOR Soren Lindevang
 .COMPANYNAME
 .COPYRIGHT
-.TAGS PowerShell Office 365 Reporting Report Multifactor MultifactorAuthentication Authentication MFA Azure Automation
+.TAGS PowerShell Office 365 Reporting Report Multifactor MultifactorAuthentication Multi-factor Multi-factor-Authentication Authentication MFA Azure Automation
 .LICENSEURI
 .PROJECTURI
 .ICONURI
@@ -19,7 +19,7 @@
     Generate Report of Office 365 Global Admins not secured with multi-factor authentication.
 
 .DESCRIPTION
-    Searches for global admins with multifactor authentication disabled in a Office 365 tenant.
+    Searches for global admins with multi-factor authentication disabled in a Office 365 tenant.
     
     Option to send a CSV report over e-mail.
     
